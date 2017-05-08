@@ -1,0 +1,1 @@
+<?php $data='a:3:{s:2:"q1";s:172:"Verifying&nbsp;<img title="\int_{a}^{b}4x^2" src="http://latex.codecogs.com/svg.latex?{\color{White}\int_{a}^{b}4x^2}" alt="" /><br />and line breaking<br />and stuff<br />";s:2:"q2";s:7:"umsdf12";s:2:"q3";s:12:"adasrhkl13t1";}';?>

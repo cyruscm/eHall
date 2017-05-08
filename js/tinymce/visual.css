@@ -1,0 +1,17 @@
+.row{
+    background-color: rgba(0, 0, 0, 0.2);
+    webkit-transition: all 1.5s ease-out;
+    -moz-transition: all 1.5s ease-out;
+    -o-transition: all 1.5s ease-out;
+    -ms-transition: all 1.5s ease-out;
+    transition: all 1.5s ease-out;
+}
+
+.row:hover{
+    -webkit-transition: all 1.5s ease-in;
+    -moz-transition: all 1.5s ease-in;
+    -o-transition: all 1.5s ease-in;
+    -ms-transition: all 1.5s ease-in;
+    transition: all 1.5s ease-in;
+    background-color:rgba(0, 0, 0, 0);
+}

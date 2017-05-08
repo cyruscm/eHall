@@ -1,0 +1,1 @@
+<?php if(isset($_GET['p'])){if($_GET['p']!='editor'){include_once 'content/includer.php';}} else{include_once '../../content/includer.php';} ?><?php if(isset($_GET['p'])){if($_GET['p']!='editor'){require_once 'content/testBase.php';}}

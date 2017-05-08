@@ -1,0 +1,1 @@
+up right diagonal ellipsis down right diagonal ellipsis open square brackets table row 5 cell 2 x end cell row 3 cell 6 x end cell end table close square brackets

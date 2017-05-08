@@ -1,0 +1,8 @@
+<?php
+include_once '/includes/functions.php';
+include_once '/content/editor/tests/functions.php';
+//Take Three
+$section = $_SESSION['section'];
+$subject = getParent($_GET['unit'], $mysqli);
+
+printNavHeader($subject);

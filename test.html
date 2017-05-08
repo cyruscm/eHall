@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+</head>
+<body>
+ 
+<p>Click anywhere to toggle the box.</p>
+<div class="test"><div id="toggle" class="toggle"></div><div class="toggle"></div></div>
+ 
+<script>
+$( document ).click(function() {
+  $( "#toggle" ).animate({'margin-left':'-1000px'},1000,function(){$(this).remove();});
+});
+</script>
+ 
+</body>
+</html>
